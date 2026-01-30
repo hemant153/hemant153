@@ -1,17 +1,15 @@
-
 <p align="center">
-  <img
+  <img 
     src="https://capsule-render.vercel.app/api
     ?type=waving
-    &height=220
+    &height=200
     &text=Hello%2C%20I'm%20Hemant%20Mapari%20👋
-    &fontSize=42
+    &fontSize=40
     &fontAlign=50
-    &fontAlignY=38
+    &fontAlignY=35
     &color=gradient
-    &animation=fadeIn
-    &customColorList=0,20,40,60,80,100"
-    alt="conical-header"
+    &customColorList=10,18,28,38,48,58,68,78"
+    alt="header"
   />
 </p>
 
