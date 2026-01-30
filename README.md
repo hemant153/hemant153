@@ -1,3 +1,20 @@
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &height=220
+    &text=Hello%2C%20I'm%20Hemant%20Mapari%20👋
+    &fontSize=42
+    &fontAlign=50
+    &fontAlignY=38
+    &color=gradient
+    &animation=fadeIn
+    &customColorList=0,20,40,60,80,100"
+    alt="conical-header"
+  />
+</p>
+
 👨‍💻 About Me
 
 📍 Based in Vijay Nagar, Indore, Madhya Pradesh, India
